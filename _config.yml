@@ -1,0 +1,26 @@
+###########
+# site.title
+
+title:    'teddie brock'
+subtitle: 'a blank space'
+url: "localhost:4000"
+baseurl: "/blank-spaces"
+
+
+nav:
+- { title: 'welcome', href: '/' }
+- { title: 'about', href: '/two.html' }
+
+
+#########################
+# more settings
+
+markdown: kramdown
+
+sass:
+  sass_dir: css
+  style:    expanded
+
+exclude:
+- README.md
+- LICENSE.md
