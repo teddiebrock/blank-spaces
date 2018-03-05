@@ -6,7 +6,7 @@ permalink: /about
 
 # {{ page.title }}
 
-I am a researcher whose interests span across culture, activism, art, design, and curation.
+I am a writer and researcher whose interests span across culture, activism, art, design, and curation.
 <br><br>In 2017 I graduated with a Bachelor of Arts from the University of Victoria in English Literature with a focus on media studies and digital humanities.<br><br>My work engages with questions around social justice, affect, and embodiment as they relate to various arts and knowledge practices.
 <br>
 
