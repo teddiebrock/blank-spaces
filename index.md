@@ -8,4 +8,4 @@ title: home
 
 (b) This site will serve as both a portfolio and mini-resource / experience library for learning technical media skills.
 
-(c) She learned how to build and design this tiny webspace with [helpful lessons ](https://programminghistorian.org/)by the Programming Historian..
+(c) She learned how to build and design this tiny webspace with [helpful lessons ](https://programminghistorian.org/)by the Programming Historian.
