@@ -1,6 +1,6 @@
 ---
 layout: post
-title: research notebook
+title: notebook
 ---
 
-{ this is a space where I document current projects, ideas, and related resources }<br><br>
+{ this is a space for current projects, research, <br>and related resources }<br><br>

@@ -11,17 +11,17 @@ title:  portfolio
 
 <br>
 ## PROJECTS / SKILLS
-* *an introduction to noisemaking* - workshop coordination ([featured on CFUV's "Story Map" project](https://soundcloud.com/cfuv/story-map-noisemaking-at-uvic){:target="_blank"}) in collaboration with the UVic Maker Lab and CFUV's Women's Radio Collective
+* "Introduction to Noisemaking" - workshop coordination ([featured on CFUV 101.9's "Story Map" project](https://soundcloud.com/cfuv/story-map-noisemaking-at-uvic){:target="_blank"}) in collaboration with the University of Victoria's (UVic) Maker Lab (MLab) and CFUV's Women's Radio Collective
 
-* audio editing for the Maker Lab's "Jacob" exhibit at DHSI, 2016 - ([see exhibit repository](https://github.com/uvicmakerlab/magneticRecordingKit){:target="_blank"}) + ([news article](http://www.martlet.ca/historic-tech-experiment-gets-re-wired-for-maker-lab-exhibit/){:target="_blank"})
+* audio editing for the Maker Lab's "Jacob" exhibit - ([see exhibit repository](https://github.com/uvicmakerlab/magneticRecordingKit){:target="_blank"}) + ([news article](http://www.martlet.ca/historic-tech-experiment-gets-re-wired-for-maker-lab-exhibit/){:target="_blank"})
 
 * video editing for ["Kits for Cultural History: Remaking The Past"](https://www.youtube.com/watch?v=FUkCnf6DS-c){:target="_blank"} - semi-finalist and publicly screened at UVic's IdeasFest "Research Reels" video competition, 2017
 
-* [a slidedeck experiment](http://slides.com/teddiebrock/introduction-to-files-and-folders#/){:target="_blank"} in metaphor and teaching (as part of an beginner's workshop series in digital file management systems)
+* [a slidedeck experiment](http://slides.com/teddiebrock/introduction-to-files-and-folders#/){:target="_blank"} in metaphor and teaching (as part of a beginner's workshop series in digital file management)
 
 * **this website** - a beginner's project in minimal/independent webmaking.
 
-* **radio broadcasting** - experience in coordinating a live 1-3 hour radio show at a college-community station.
+* **radio broadcasting** - experience in coordinating a live 1-3 hour radio show at a college-community station (CFUV 101.9).
 <br>
 <br>
 <br>
@@ -38,8 +38,8 @@ title:  portfolio
 * [Electric Eclectics ](https://weirdcanada.com/2016/07/festivities-electric-eclectics-2/){:target="_blank"}(Meadford, ON)
 * [Review: ATRUM MACHINA ](https://weirdcanada.com/2017/05/new-canadiana-atrum-machina-machine-breathing/){:target="_blank"}(Victoria, BC)
 
-**The Maker Lab in the Humanities**
-<br>a multi-displinary research space
+**The Maker Lab in the Humanities (MLab)**
+<br>a multi-disciplinary research space
 * [blog archive](http://maker.uvic.ca/author/teddie/){:target="_blank"} *(2015-2017)*<br>
   * *MLab: A Two-Year Review*<br>
   * *Research Reels: Remaking The Past*<br>
