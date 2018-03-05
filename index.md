@@ -1,15 +1,11 @@
 ---
 layout: default
-title:  welcome
+title: home
 ---
+# [Teddie Brock](https://twitter.com/teddiebrock) is a writer<br>and researcher interested in <br>media and culture.
 
-# {{ page.title }}
+(a) She currently lives in Delta, BC (relocating to London, UK).
 
+(b) This site will serve as both a portfolio and mini-resource / experience library for learning technical media skills.
 
-`Lorem ipsum`
-
-[I'm an inline-style link](https://www.google.com)
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet viverra ipsum. Duis purus nisl, pulvinar ac iaculis quis, cursus porttitor felis. Fusce a volutpat ex, eu maximus tellus. Phasellus fermentum mauris vel felis cursus dapibus. Vestibulum at libero bibendum, dignissim metus ut, lacinia risus. Phasellus auctor finibus turpis ac congue. Duis fringilla, urna sed gravida volutpat, purus enim euismod lorem, a vestibulum erat velit sed nulla. Donec urna dolor, hendrerit vitae semper sed, cursus eget ligula. Vestibulum in iaculis dui. Etiam posuere facilisis mi, in faucibus turpis gravida in. Duis molestie urna fringilla, cursus magna ut, pretium metus. Nulla posuere urna ut elit varius, sit amet accumsan orci auctor. Nullam tincidunt elit nec tellus elementum, ac faucibus lorem congue. Suspendisse commodo vestibulum purus. Morbi dapibus tortor at ipsum gravida, quis aliquet nibh auctor. Phasellus feugiat leo metus, eget interdum augue hendrerit non.
-
-Cras id nunc neque. Curabitur ut massa aliquam, dictum tortor in, varius diam. Integer id vulputate est. Pellentesque est quam, euismod vitae eros a, blandit posuere urna. Morbi fermentum erat ornare eros suscipit pretium. Aliquam porta risus nunc, sed pretium urna viverra vel. Aliquam erat volutpat.
+(c) She learned how to build and design this tiny webspace with [helpful lessons ](https://programminghistorian.org/)by the Programming Historian.
