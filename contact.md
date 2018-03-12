@@ -5,7 +5,9 @@ title: contact
 
 # {{ page.title }}
 
-If you would like to know more about my skills and experience, <br>you can contact me at the following places:
+<br> You can reach me at the following web-places:
 
 Email: teddiebrock [at] gmail [dot] com
 <br>Twitter: [@teddiebrock](https://twitter.com/teddiebrock)
+
+My CV is available upon request.

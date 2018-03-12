@@ -7,4 +7,4 @@ title: home
 <br><br>
 <br>( * ) She currently lives in Delta, BC.
 <br><br>
-( * ) She built and designed this tiny webspace using <br>helpful tutorials by the [Programming Historian](https://programminghistorian.org/).
+( * ) She made this tiny webspace using <br>helpful tutorials by the [Programming Historian](https://programminghistorian.org/).
