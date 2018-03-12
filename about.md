@@ -12,4 +12,4 @@ I am a writer and researcher whose interests span across culture, activism, art,
 
 With my background in business systems analysis, I have also developed resources for teaching software and digital skills such as document control and project management in the workplace.
 
-In general, I am curious about how social systems and institutions work in relation to our navigation of media spaces and art-worlds. <br><br>
+In general, I am curious about how social systems and institutions work in relation to how we both build and navigate our various media spaces and art-worlds. <br><br>
