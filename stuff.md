@@ -3,7 +3,7 @@ layout: default
 title:  stuff
 ---
 # {{ page.title }}
-a selection of publications, experiments, and collaborative media projects I've taken part in over the past couple years.
+a selection of publications, projects, and collaborative experiments I've taken part in over the past couple years.
 <br>
 <br>
 ## projects
