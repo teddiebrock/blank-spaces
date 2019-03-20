@@ -2,7 +2,9 @@
 layout: default
 title: home
 ---
-[Teddie Brock](https://twitter.com/teddiebrock)* is a Canadian living in London, UK
+# about
+
+I am a West Coast Canadian living in London, UK.
 <br>
 <br>In 2017 I graduated with a Bachelor of Arts from the University of Victoria in English Literature with a focus on media studies and digital humanities. I care a lot about community, art, and social justice & how to bring those things together.<br>
 <br>
