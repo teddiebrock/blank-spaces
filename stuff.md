@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  things
+title:  stuff
 ---
 # {{ page.title }}
 a selection of publications, experiments, and collaborative media projects I've taken part in over the past couple years.
@@ -18,10 +18,12 @@ a selection of publications, experiments, and collaborative media projects I've 
 * **this website** - a beginner's project in minimal/independent webmaking.
 
 * **radio broadcasting** - experience in coordinating a live 1-3 hour radio show at a college-community station (CFUV 101.9).
-<br>
+
 <br>
 
 ***
+
+<br>
 
 ## writing + research
 
