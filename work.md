@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  stuff
+title:  work
 ---
 # {{ page.title }}
 a selection of publications, projects, and collaborative experiments I've taken part in over the past couple years.
