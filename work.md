@@ -13,7 +13,7 @@ a selection of publications, projects, and collaborative experiments I've taken 
 
 * video editing for ["Kits for Cultural History: Remaking The Past"](https://www.youtube.com/watch?v=FUkCnf6DS-c){:target="blank"} - semi-finalist and publicly screened at UVic's IdeasFest "Research Reels" video competition, 2017
 
-* [a slidedeck experiment](http://slides.com/teddiebrock/introduction-to-files-and-folders#/){:target="blank"} in metaphor and teaching (as part of a beginner's workshop series in digital file management)
+* [a slidedeck experiment](https://slides.com/teddiebrock/introduction-to-files-and-folders#/){:target="blank"} in metaphor and teaching (as part of a beginner's workshop series in digital file management)
 
 * **this website** - a beginner's project in minimal/independent webmaking.
 
@@ -37,7 +37,7 @@ a selection of publications, projects, and collaborative experiments I've taken 
 
 **The Maker Lab in the Humanities (MLab)**
 <br>a multi-disciplinary research space
-* [blog archive](http://maker.uvic.ca/author/teddie/){:target="blank"} (2015-2017)
+* [blog archive](https://maker.uvic.ca/author/teddie/){:target="blank"} (2015-2017)
 <br>
   * MLab: A Two-Year Review<br>
   * Research Reels: Remaking The Past<br>
