@@ -45,7 +45,7 @@ a selection of publications, projects, and collaborative experiments I've taken 
 
 **JCURA**
 <br>Jamie Cassels Undergraduate Research Award
-* ["Drawing Sound: Oramics and Feminist Epistemology"](assets/JCURA_OramicsPoster.pdf){:target="blank"} <br>- a research poster presentation
+* "Drawing Sound: Oramics and Feminist Epistemology" <br>- a research poster presentation
 <br>
 <br>
 
