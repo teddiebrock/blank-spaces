@@ -3,7 +3,7 @@ subtitle: "anti-lifestyle lifestyle blog"
 author: "teddie brock"
 description: "anti-lifestyle lifestyle blog"
 lang: "en"
-baseurl: "https://teddiebrock.com"
+url: "https://teddiebrock.com"
 
 # Page settings
 permalink: /:title/          # see https://jekyllrb.com/docs/permalinks/
