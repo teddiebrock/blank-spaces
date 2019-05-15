@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+<img src="{{site.baseurl}}/assets/header.jpg">
+
 {% if site.show_excerpts and page.name == "index.html" %}
 {% for page in paginator.posts %}
 <article>
@@ -9,6 +11,7 @@ layout: default
     <h1><a href="{{ page.url | relative_url }}">{{ page.title }}</a></h1>
     <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: date_format }}</time>
   </header>
+
   {{ page.excerpt }}
   {% unless page.excerpt == page.content %}
   <footer><a class="ghost" href="{{ page.url | relative_url }}">read more »</a></footer>

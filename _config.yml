@@ -1,4 +1,4 @@
-title: "teddie brock"
+title: "XENO ~ ECO"
 subtitle: "anti-lifestyle lifestyle blog"
 author: "teddie brock"
 description: "anti-lifestyle lifestyle blog"
@@ -13,7 +13,7 @@ post_footer: true            # show previous and next links at the end of each p
 
 # Theme settings
 dark_theme: false            # use the dark mode as default
-dark_header: false           # keep the header dark
+dark_header: true           # keep the header dark
 # style: minimal             # use a simpler style inspired by the minima theme
 
 navigation:                  # (optional) site navigation in the header
