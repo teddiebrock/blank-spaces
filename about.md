@@ -4,10 +4,21 @@ permalink: "/about/"
 layout: page
 ---
 
-I'm a Canadian (Vancouver, BC) living in London, UK.
+*"Make kin, not babies"*
+*- Donna Haraway*
 
-I am interested in designing equitable futures.
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
+**Eco / Xeno is an 'anti-lifestyle' lifestyle blog about sustainability and activism.**
 
-( * ) I made this tiny webspace with GitHub Pages + Jekyll using
+**It strives to build unlikely alliances in the pursuit of more equitable futures for both human and non-human life.**
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+>>( * ) I made this webspace with GitHub Pages + Jekyll using
 helpful tutorials by the [Programming Historian](https://programminghistorian.org/).
