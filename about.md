@@ -13,9 +13,9 @@ layout: page
 
 
 
-This tiny seed of a blog was planted to grow space (and flourish with countless others) to explore alternative futures for human/non/in-human life based on principles of justice, resilience, maintenance, and repair.
+This small seed of a blog was planted to grow space (and flourish among countless others) to explore alternative futures for human/non/in-human life founded on the principles of social justice, resilience, maintenance, and repair.
 
-I hope to mix theory, observations, and wanderings from daily life with opportunities for concrete radical collective action.
+As an ongoing personal project, I aim to enmesh theory, observations, musings, and wanderings from daily life with opportunities for radical collective action and unlikely kinships.
 
 &nbsp;
 &nbsp;
