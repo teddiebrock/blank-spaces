@@ -8,18 +8,13 @@ layout: page
 *- Donna Haraway*
 
 &nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 
-**Eco / Xeno is an 'anti-lifestyle' lifestyle blog about sustainability and activism.**
+**Eco / Xeno is an 'anti-lifestyle' lifestyle blog about sustainability and daily resistance.**
 
-&nbsp;
 
-It strives to build unlikely alliances in the pursuit of more equitable futures for both human and non-human life.
 
-&nbsp;
+This blog is a space to explore and build alternative futures for human/non-human life based on principles of justice, resilience, maintenance, and repair.
+
 &nbsp;
 &nbsp;
 &nbsp;
