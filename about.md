@@ -21,5 +21,6 @@ As an ongoing personal project, I aim to enmesh theory, observations, musings, a
 &nbsp;
 &nbsp;
 &nbsp;
+
 >>( * ) I made this webspace with GitHub Pages + Jekyll using
 helpful tutorials by the [Programming Historian](https://programminghistorian.org/).
