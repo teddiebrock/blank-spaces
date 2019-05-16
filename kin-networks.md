@@ -12,3 +12,5 @@ title: "kinship-networks"
 * [ANTI-UNIVERSITY](http://www.antiuniversity.org/READER) (London, UK)
 
 * [Commune Magazine ](https://communemag.com/) (USA)
+
+* [feministkilljoys](https://feministkilljoys.com/) by Sara Ahmed (UK)

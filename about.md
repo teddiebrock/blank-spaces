@@ -14,7 +14,7 @@ layout: page
 
 **Eco / Xeno is an 'anti-lifestyle' lifestyle blog about sustainability and activism.**
 
-**It strives to build unlikely alliances in the pursuit of more equitable futures for both human and non-human life.**
+It strives to build unlikely alliances in the pursuit of more equitable futures for both human and non-human life.
 
 &nbsp;
 &nbsp;
