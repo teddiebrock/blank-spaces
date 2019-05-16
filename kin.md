@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "kinship-networks"
+title: "kin"
 ---
 
 *An assortment of publications, organizations, manifestos, resources, and collaborations that inform the theory and direction of this blog.*

@@ -9,13 +9,13 @@ layout: page
 
 &nbsp;
 
-**Eco / Xeno is an 'anti-lifestyle lifestyle blog' about sustainability and daily resistance.**
+**Eco / Xeno is an 'anti-lifestyle' lifestyle blog about sustainability and everyday resistance.**
 
 
 
-This small seed of a blog was planted to grow space (and flourish alongside countless others) to explore alternative futures for human/non-human life centered around justice, resilience, maintenance, and repair.
+This blog was planted to grow space for alternative futures centered around social justice, resilience, maintenance, and repair.
 
-I aim to enmesh theory, observations, and wanderings from daily life with opportunities for radical collective action and unlikely kinships.
+I aim to combine theory, musings, and wanderings with concrete opportunities for radical action and building unexpected kinships.
 
 &nbsp;
 &nbsp;
