@@ -13,7 +13,7 @@ layout: page
 
 
 
-This blog was planted to grow space for alternative futures centered around social justice, resilience, maintenance, and repair.
+This blog was planted to grow space for exploring alternative futures centered around social justice, resilience, maintenance, and repair.
 
 I aim to combine theory, musings, and wanderings with concrete opportunities for radical action and building unexpected kinships.
 
