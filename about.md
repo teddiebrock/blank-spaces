@@ -4,18 +4,13 @@ permalink: "/about/"
 layout: page
 ---
 
-*"Make kin, not babies"*
-*- Donna Haraway*
-
-&nbsp;
-
 **Eco / Xeno is an 'anti-lifestyle' lifestyle blog about sustainability and everyday resistance.**
 
 
 
-This blog was planted to grow space for exploring alternative futures centered around social justice, resilience, maintenance, and repair.
+It was planted to grow space for exploring futures centered around social justice, resilience, maintenance, and repair.
 
-I aim to combine theory, musings, and wanderings with concrete opportunities for radical action and building unexpected kinships.
+I see it as a cross between a research log and personal scrapbook. I aim to mix theory, musings, and wanderings with concrete opportunities for radical action and building unexpected kinships.
 
 &nbsp;
 &nbsp;
