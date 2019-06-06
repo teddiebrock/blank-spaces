@@ -3,7 +3,7 @@ layout: post
 title: "independent web-making: an experiment"
 ---
 
-Before I started this website, I took some time to learn about the options out there for anyone who wants to publish their own content online. While I don’t want to get into the super technical aspects of web hosting here, I’d like to give a rundown on how I decided on what *not* to use for my own blog and why that matter to the themes I’d like to explore in the future.  
+Before I started this website, I took some time to learn about the options out there for anyone who wants to publish their own content online. While I don’t want to get into the super technical aspects of web hosting here, I’d like to give a rundown on how I decided on what *not* to use for my own blog and why that matters to the themes I’d like to explore in the future.  
 
 To clarify, I’m not against resorting to corporate services online, since for now that’s the economic reality [we’re faced with](https://www.theguardian.com/commentisfree/2019/feb/17/almost-impossible-to-function-without-big-five-tech-giants). However, for a blog that investigates what it means to build upon anti-capitalist (pro-community cooperation, pro-publics, pro-egalitarian) logic, I was curious about how far I could go to apply these values to my own site’s architecture, as well as explore what it means to distribute my content ‘autonomously’ with as little dependency on external for-profit services as possible. I’ve been inspired by DIY zine & punk culture for years, so the question of whether there could be an online parallel to self-publishing with just a run-down printer and some staples was something I wanted to look more into.
 
