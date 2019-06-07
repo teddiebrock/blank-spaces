@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: page
 ---
 
-**Eco / Xeno is an 'anti-lifestyle' lifestyle blog about sustainability and everyday resistance.**
+**In Situ is an 'anti-lifestyle' lifestyle blog about sustainability and everyday resistance.**
 
 
 
