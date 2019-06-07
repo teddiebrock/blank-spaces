@@ -5,7 +5,7 @@ title: "independent web-making: an experiment"
 
 Before I started this website, I took some time to learn about the options out there for anyone who wants to publish their own content online. While I don’t want to get into the super technical aspects of web hosting or content management systems here, I’d like to give a rundown on how I decided on what *not* to use for my own blog and why that matters to the themes I’d like to explore in the future.  
 
-To clarify, I’m not against resorting to corporate services online, since for now that’s the economic reality [we’re faced with](https://www.theguardian.com/commentisfree/2019/feb/17/almost-impossible-to-function-without-big-five-tech-giants). For a blog that investigates what it means to build upon anti-capitalist (pro-community cooperation, pro-publics, pro-egalitarian) logic, however, I was curious about how far I could go to apply these values to my own site’s architecture, and explore what it means to distribute my content ‘autonomously’ with as little dependency on external for-profit services as possible. I’ve been inspired by DIY zine & punk culture for years, so the question of whether there could be an online parallel to self-publishing with just an old printer and some staples was something I wanted to look more into.
+To clarify, I’m not against resorting to corporate services online, since for now that’s the economic reality [we’re faced with](https://www.theguardian.com/commentisfree/2019/feb/17/almost-impossible-to-function-without-big-five-tech-giants). For a blog that investigates what it means to build upon anti-capitalist (pro-community cooperation, pro-publics, pro-maintenance/repair, pro-equal access) logic, however, I was curious about how far I could go to apply these values to my own site’s architecture, and explore what it means to distribute my content ‘autonomously’ with as little dependency on external for-profit services as possible. I’ve been inspired by DIY zine & punk culture for years, so the question of whether there could be an online parallel to self-publishing with just an old printer and some staples was something I wanted to look more into.
 
 For most people, starting a Wordpress.com site is the simplest free option, as far as getting a blog up and running goes. (Wordpress.*org* is actually a different thing and there’s lots of information on what those differences are).
 
@@ -22,4 +22,4 @@ Although getting the hang of Jekyll (and GitHub) requires some initial effort (s
 
 If you'd like to learn more about how to set up a Jekyll site, I used this peer-reviewed tutorial by the [Programming Historian](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages)
 
-To edit my posts, I use the text editor [Atom](https://atom.io/) and the GitHub package to push them to the web. 
+To edit my posts, I use the text editor [Atom](https://atom.io/) and the GitHub package to push them to the web.
