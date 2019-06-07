@@ -7,6 +7,9 @@ Before I started this website, I took some time to learn about the options out t
 
 To clarify, I’m not against resorting to corporate services online, since for now that’s the economic reality [we’re faced with](https://www.theguardian.com/commentisfree/2019/feb/17/almost-impossible-to-function-without-big-five-tech-giants). For a blog that investigates what it means to build upon anti-capitalist (pro-community cooperation, pro-publics, pro-maintenance/repair, pro-equal access) logic, however, I was curious about how far I could go to apply these values to my own site’s architecture, and explore what it means to distribute my content ‘autonomously’ with as little dependency on external for-profit services as possible. I’ve been inspired by DIY zine & punk culture for years, so the question of whether there could be an online parallel to self-publishing with just an old printer and some staples was something I wanted to look more into.
 
+
+
+
 For most people, starting a Wordpress.com site is the simplest free option, as far as getting a blog up and running goes. (Wordpress.*org* is actually a different thing and there’s lots of information on what those differences are).
 
 The main distinction is that the former is a private hosting service (like Squarespace) while the latter is an open-source content management system that lets you run your website yourself (or at least modify the Wordpress software and have 100% control over your content). In this sense, I definitely prefer Wordpress.org. The thing about Wordpress, though, is that I would still have to buy both a domain name and web-hosting for server space.
