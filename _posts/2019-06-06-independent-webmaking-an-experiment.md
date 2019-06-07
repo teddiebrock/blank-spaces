@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "independent web-making: an experiment"
+title: "the autonomous web"
 ---
 
 Before I started this website, I took some time to learn about the options out there for anyone who wants to publish their own content online. While I don’t want to get into the super technical aspects of web hosting or content management systems here, I’d like to give a rundown on how I decided on what *not* to use for my own blog and why that matters to the themes I’d like to explore in the future.  
