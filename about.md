@@ -10,7 +10,9 @@ layout: page
 &nbsp;
 &nbsp;
 &nbsp;
+
 A space for present, place-based thinking ('in situ') for imagining futures centered around social justice, resilience, maintenance, and repair.
+
 &nbsp;
 &nbsp;
 &nbsp;
