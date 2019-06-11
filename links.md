@@ -12,3 +12,5 @@ title: "links"
 * [ANTI-UNIVERSITY](http://www.antiuniversity.org/ABOUT) (London, UK)
 
 * [feministkilljoys](https://feministkilljoys.com/) by Sara Ahmed (UK)
+
+* [The Field: Creating Commons in New Cross](http://thefieldnx.com/) (New Cross, London UK)
