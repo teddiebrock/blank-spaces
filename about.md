@@ -8,19 +8,15 @@ layout: page
 
 &nbsp;
 &nbsp;
-&nbsp;
-&nbsp;
 
-A space for present, place-based thinking ('in situ') for imagining futures centered around social justice, resilience, maintenance, and repair.
+A space for present, place-based thinking ('in situ') for imagining futures centered around sustainability, resilience, maintenance, and repair.
 
 &nbsp;
 &nbsp;
-&nbsp;
-&nbsp;
 
-**about me:**
+**about:**
 
-My name is Teddie Brock. This site is a cross between a personal research log and scrapbook to help me think/work through trouble. From a non-expert perspective I'll blend theory, musings, and wanderings with concrete opportunities for radical action and building unexpected kinships.
+My name is Teddie Brock. This blog is a cross between a personal research log and scrapbook to help me think / work through trouble. From a non-expert perspective I'll blend theory, musings, and wanderings with concrete opportunities for radical action and building unexpected kinships.
 
 
 
