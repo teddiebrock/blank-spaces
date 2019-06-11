@@ -15,6 +15,6 @@ title: "links"
 
 * [The Field: Creating Commons in New Cross](http://thefieldnx.com/) (Queens Road, New Cross, London, UK)
 
-* [The Invisible Worker Zine](https://theinvisibleworker.wordpress.com/)(London, UK)
+* [The Invisible Worker Zine](https://theinvisibleworker.wordpress.com/) (London, UK)
 
-* [Best Practice Zine](https://bestpracticezine.bigcartel.com/) (London,UK)
+* [Best Practice Zine](https://bestpracticezine.bigcartel.com/) (London, UK)
