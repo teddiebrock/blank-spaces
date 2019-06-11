@@ -12,8 +12,7 @@ A space for present, place-based thinking ('in situ') for imagining futures cent
 
 
 **about me:**
-
-My name is Teddie Brock. This blog is a cross between a personal research log and scrapbook where I aim to mix theory, musings, and wanderings with concrete opportunities for radical action and building unexpected kinships.
+My name is Teddie Brock. This site is a cross between a personal research log and scrapbook to help me think/work through trouble. Here I'll blend theory, musings, and wanderings with concrete opportunities for radical action and building unexpected kinships.
 
 
 
