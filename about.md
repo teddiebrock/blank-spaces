@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: page
 ---
 
-**How should one be positioned in order to see, in this situation of tensions, resonances, transformations, resistances, and complicities?**  -Donna Haraway
+*How should one be positioned in order to see, in this situation of tensions, resonances, transformations, resistances, and complicities?*  -Donna Haraway
 
 A space for present, place-based thinking ('in situ') for imagining futures centered around social justice, resilience, maintenance, and repair.
 
