@@ -4,19 +4,16 @@ permalink: "/about/"
 layout: page
 ---
 
-*How should one be positioned in order to see, in this situation of tensions, resonances, transformations, resistances, and complicities? - Donna Haraway*  
+*<center>How should one be positioned in order to see, in this situation of tensions, resonances, <br>transformations, resistances, and complicities?
+<br>-Donna Haraway</center>*
 
 &nbsp;
-&nbsp;
 
-My name is Teddie Brock. This blog is a cross between a personal research log and scrapbook to help me think / work through trouble. It is a space for thinking about the present ('in situ') in order to imagine futures centering sustainability, community resilience, maintenance, and repair. From a non-expert perspective I'll blend theory, musings, and wanderings with concrete opportunities for radical action and building unexpected kinships.
-
-
+My name is Teddie Brock. This site is a cross between a research log and personal scrapbook to help me work / think through trouble. It's a space for thinking about the present, 'in place,' and for imagining futures that center resilience, care, and repair. <br>
+<br>From a non-expert perspective I'll blend theory, musings, and wanderings with concrete opportunities for radical action and unexpected kinships.
 
 &nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+
 
 >>( * ) I made this webspace with GitHub Pages + Jekyll using
 helpful tutorials by the [Programming Historian](https://programminghistorian.org/).
