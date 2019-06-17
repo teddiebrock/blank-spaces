@@ -3,7 +3,7 @@ layout: page
 title: "links"
 ---
 
-*A growing assortment of publications, organizations, articles, poems, artworks, manifestos, thinkers, resources, and collaborations that inform the theory and direction of this blog.*
+*A growing assortment of publications, organizations, articles, poems, artworks, manifestos, thinkers, resources, and collaborations that guide the direction of this blog.*
 
 * [Xenofeminist Manifesto](https://www.laboriacuboniks.net/) by Laboria Cuboniks (Canada, United Kingdom, Germany)
 
