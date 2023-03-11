@@ -3,9 +3,9 @@ layout: post
 comments: true
 title: "the autonomous blog"
 ---
-TEST AUDIO
+TEST AUDIO  
 
-{% include test.mp3 %}
+{% include test.mp3 content="test sound" %}  
 
 It’s hard to imagine an internet where we have collective, transparent control over how (and why) we publish our work -- or simply exist -- in digital spaces. Frustratingly, it is [almost impossible](https://www.theguardian.com/commentisfree/2019/feb/17/almost-impossible-to-function-without-big-five-tech-giants) to escape the surveillance architecture of Big Tech companies. This isn't to say that our our lives aren't sometimes made easier by using these products, but that there are significant costs to the methods by which tech companies relate to the public as part of [extractive, exploitative, and resource-intensive](https://anatomyof.ai/) business models. These companies must continually invest in the public's participation in services for their own sake -- and in ways that are typically [unsustainable for ourselves and the planet](https://www.theguardian.com/commentisfree/2018/jul/17/internet-climate-carbon-footprint-data-centres) -- rather then for a clearly defined purpose that respects our boundaries and serves the common good (e.g. to learn something new, to socialize, to build community across different locations, to organize politically).
 
