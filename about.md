@@ -13,7 +13,9 @@ A cross between a research log and personal scrapbook to help me work / think th
 
 A mixture of theory, everyday resistance, and imagining alternative futures.
 
-A grounded place for place-lessness. 
+A grounded place for placelessness.
+
+Works in perpetual process and revision.
 
 (written by Teddie Brock)
 
